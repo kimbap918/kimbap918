@@ -15,10 +15,30 @@
  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/></a>
 <br>
 <br>
+
 **Learning🏃‍♂️**<br>
  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-</div>
 
+<br>
+
+**Most Used👨‍💻**<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbap918&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**Github Stats📊**<br>
+![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbap918&theme=dark&show_icons=true)
+
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
 <!--
 **kimbap918/kimbap918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
