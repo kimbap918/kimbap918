@@ -1,4 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=&fontSize=80)
+
+
+  ### kimbap918 🐈
+
+
+
+</div>
+
 
 <!--
 **kimbap918/kimbap918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
