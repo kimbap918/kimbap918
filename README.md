@@ -36,7 +36,11 @@
 **Github Stats📊**<br>
 ![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbap918&theme=dark&show_icons=true)
 
+<br>
+<br>
 
+**Challenging🔭**<br>
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choicho)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
