@@ -8,7 +8,7 @@
 
 <br> 
 
- **Skills🏃‍**
+ **Skills**
  <br> 
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white"/>
@@ -23,6 +23,9 @@
 
 **Most Used👨‍💻** <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbap918&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+
+<br>
+<br>
 <br>
 <br>
 <br>
