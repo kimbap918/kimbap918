@@ -21,7 +21,7 @@
 <br>
 
 
-**Most Used👨‍💻**<br>
+**Most Used👨‍💻** <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbap918&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 <br>
 <br>
@@ -33,7 +33,7 @@
 <br>
 <br>
 
-**Github Stats📊**<br>
+**Github Stats📊** <br>
 ![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbap918&theme=dark&show_icons=true)
 
 <br>
