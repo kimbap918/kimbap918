@@ -12,9 +12,14 @@ Hello! I'm kimbap918, a developer building **news-related tools and SaaS** lever
 <br/>
 
 **🏢 Current Work**
-**LLM & AI Researcher** at **FromAI / Leverage Hero** (AI News Department) <br/>
-**SaaS Development**: Building AI-driven content generation and news reconstruction services. <br/>
-**Focusing on**: Large Language Models (LLMs), News Content Optimization, and RAG-based Systems. <br/>
+
+**FromAI / Leverage Hero** AI 뉴스 부서 LLM & AI 연구원 <br>
+**SaaS 개발**: AI 기반 콘텐츠 생성 및 뉴스 재구성 서비스 구축 <br>
+**주요 연구 분야**: 거대언어모델(LLM), 뉴스 콘텐츠 최적화, RAG(검색 증강 생성) 기반 시스템 <br>
+
+**LLM & AI Researcher** at **FromAI / Leverage Hero** (AI News Department)  <br>
+**SaaS Development**: Building AI-driven content generation and news reconstruction services.  <br>
+**Focusing on**: Large Language Models (LLMs), News Content Optimization, and RAG-based Systems.  <br>
 
 <br/>
 
