@@ -1,62 +1,85 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=&fontSize=80)
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header)
 
-### kimbap918 🐈 
+## 🐈 kimbap918 
+### AI & LLM Researcher | SaaS Developer | Python Expert
 
+**Python · AI/LLM · SaaS · News Automation** 안녕하세요! Python과 AI 기술을 활용해 **뉴스 관련 도구 및 SaaS**를 개발하고 있는 kimbap918 입니다.  
+Hello! I'm kimbap918, a developer building **news-related tools and SaaS** leveraging Python and AI.
 
-<br> 
+<br/>
 
- **Skills**
- <br> 
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
- <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<br>
-<br>
+**🏢 Current Work**
+**LLM & AI Researcher** at **FromAI / Leverage Hero** (AI News Department) <br/>
+**SaaS Development**: Building AI-driven content generation and news reconstruction services. <br/>
+**Focusing on**: Large Language Models (LLMs), News Content Optimization, and RAG-based Systems. <br/>
 
+<br/>
 
-**Most Used👨‍💻** <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbap918&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<a href="mailto:fx887722@naver.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://blog.naver.com/fx887722">
+  <img src="https://img.shields.io/badge/Blog-0A0A0A?style=flat-square&logo=naver&logoColor=white" />
+</a>
+<a href="https://github.com/kimbap918">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-**Github Stats📊** <br>
-![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbap918&theme=dark&show_icons=true)
+</div>
 
 <br>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Core & AI**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FLLM-6E56CF?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
+**Automation & Scrapy**
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Crawling-111111?style=flat-square&logo=internetexplorer&logoColor=white"/>
+
+**Backend & DB**
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
+
+</div>
+
 <br>
 
-**Challenging🔭**<br>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choicho)
+## 🚀 Key Projects & Research
 
+### 📰 [News-Article-Reconstructor](https://github.com/kimbap918)
+- **Description**: URL 기반 뉴스 본문 자동 추출 및 AI를 활용한 보도자료 재구성 SaaS 도구 개발.
+- **Focus**: 기사의 핵심 맥락을 유지하면서 검색 엔진 최적화(SEO) 및 SaaS 모델 적용을 고려한 설계.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+### 🤖 [AI News SaaS Research](https://github.com/kimbap918)
+- **Description**: 뉴스 데이터를 가공하여 사용자 맞춤형 인사이트를 제공하는 SaaS 아키텍처 연구 및 구현.
 
-<!--
-**kimbap918/kimbap918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 [Data-Driven Automation](https://github.com/kimbap918)
+- **Description**: 반복적인 데이터 수집 및 가공 업무를 자동화하여 업무 효율성을 극대화하는 스크립트 제작.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=choicho" alt="Solved.ac Profile" />
+
+</div>
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=footer)
