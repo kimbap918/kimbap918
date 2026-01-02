@@ -5,7 +5,8 @@
 ## 🐈 kimbap918 
 ### AI & LLM Researcher | SaaS Developer | Python Expert
 
-**Python · AI/LLM · SaaS · News Automation** 안녕하세요! Python과 AI 기술을 활용해 **뉴스 관련 도구 및 SaaS**를 개발하고 있는 kimbap918 입니다.  
+**Python · AI/LLM · SaaS · News Automation** 안녕하세요! Python과 AI 기술을 활용해 **뉴스 관련 도구 및 SaaS**를 개발하고 있는 <br>
+kimbap918 입니다.  
 Hello! I'm kimbap918, a developer building **news-related tools and SaaS** leveraging Python and AI.
 
 <br/>
