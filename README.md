@@ -80,7 +80,7 @@ Hello! I'm kimbap918, a developer building **news-related tools and SaaS** lever
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Solved.ac
 
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=choicho" alt="Solved.ac Profile" />
 
