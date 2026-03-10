@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header)
 
-## 🐈 kimbap918 
+## kimbap918 
 ### AI & LLM Researcher | SaaS Developer | Python Expert
 
 **Python · AI/LLM · SaaS · News Automation** <br>
@@ -11,7 +11,7 @@ Hello! I'm kimbap918, a developer building **news-related tools and SaaS** lever
 
 <br/>
 
-**🏢 Current Work**
+**Current Work**
 
 **FromAI / Leverage Hero** AI 뉴스 부서 LLM & AI 연구원 <br>
 **SaaS 개발**: AI 기반 콘텐츠 생성 및 뉴스 재구성 서비스 구축 <br>
@@ -37,7 +37,7 @@ Hello! I'm kimbap918, a developer building **news-related tools and SaaS** lever
 
 <br>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Hello! I'm kimbap918, a developer building **news-related tools and SaaS** lever
 
 <br>
 
-## 🚀 Key Projects & Research
+## Key Projects & Research
 
 ### 📰 [News-Article-Reconstructor](https://github.com/kimbap918)
 - **Description**: URL 기반 뉴스 본문 자동 추출 및 AI를 활용한 보도자료 재구성 SaaS 도구 개발.
@@ -80,7 +80,7 @@ Hello! I'm kimbap918, a developer building **news-related tools and SaaS** lever
 
 <br>
 
-## 📊 Solved.ac
+## Solved.ac
 
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=choicho" alt="Solved.ac Profile" />
 
