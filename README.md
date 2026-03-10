@@ -68,14 +68,14 @@ Hello! I'm kimbap918, a developer building **news-related tools and SaaS** lever
 
 ## Key Projects & Research
 
-### 📰 [News-Article-Reconstructor](https://github.com/kimbap918)
+### [News-Article-Reconstructor](https://github.com/kimbap918)
 - **Description**: URL 기반 뉴스 본문 자동 추출 및 AI를 활용한 보도자료 재구성 SaaS 도구 개발.
 - **Focus**: 기사의 핵심 맥락을 유지하면서 검색 엔진 최적화(SEO) 및 SaaS 모델 적용을 고려한 설계.
 
-### 🤖 [AI News SaaS Research](https://github.com/kimbap918)
+### [AI News SaaS Research](https://github.com/kimbap918)
 - **Description**: 뉴스 데이터를 가공하여 사용자 맞춤형 인사이트를 제공하는 SaaS 아키텍처 연구 및 구현.
 
-### 📈 [Data-Driven Automation](https://github.com/kimbap918)
+### [Data-Driven Automation](https://github.com/kimbap918)
 - **Description**: 반복적인 데이터 수집 및 가공 업무를 자동화하여 업무 효율성을 극대화하는 스크립트 제작.
 
 <br>
