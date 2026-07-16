@@ -43,6 +43,8 @@ Hello! I'm kimbap918, a developer building **news-related tools and SaaS** lever
 
 **Core & AI**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Polars-3079B4?style=flat-square&logo=polars&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%2FLLM-6E56CF?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
